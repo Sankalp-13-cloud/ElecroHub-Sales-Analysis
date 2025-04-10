@@ -1,6 +1,6 @@
 # ElectroHub_Sales_Analysis
-## Overvview
-This project delivers an interactive and dynamic sales performance dashboard for ElectroHub, designed to extract meaningful insights from transactional data. It includes visual analytics focused on product performance, sales trends, discount strategies and regional contributions. The dashboard allows users to explore sales behavior across different dimensions and time frames through customizable filters and comparison tools.
+## Overview
+This project delivers an interactive and dynamic sales performance dashboard for ElectroHub, designed to extract meaningful insights from transactional data. It includes visual analytics focused on product performance, sales trends, discount strategies and regional contributions. The dashboard allows users to explore sales behaviour across different dimensions and time frames through customizable filters and comparison tools.
 
 ## Key Insights
 1. Identified Top/Bottom 5 products based on Sales, Profit and Quantity Sold.
